@@ -1,6 +1,7 @@
 # Hey there I'm Arash 👋
 
 - I'm a junior frontEnd developer
+
 Currently trying to figure out react 🤔
 
 Wish me luck 😃
