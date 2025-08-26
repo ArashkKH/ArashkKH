@@ -47,7 +47,6 @@ I'm a **Front-End Developer** turned **Full-Stack Explorer**, currently studying
 
 - 💼 [LinkedIn](https://linkedin.com/in/arash-kheirollahi)
 - 🧑‍💻 [Portfolio Website](https://arashkh.com)
-- 📫 Email: arashkhe@gmail.com
 
 ---
 
