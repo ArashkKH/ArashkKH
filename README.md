@@ -10,15 +10,13 @@
 
 - 💬 Ask me about **ANNNY thing, worst Case scenario I won't know and we'll spend whole week figuring it out together**
 
-- 📫 How to reach me **contact@arashkh.com**
+- 📫 reach me on **contact@arashkh.com**
 
-- ⚡ Fun fact **I'm Working hard on avoiding making Slop, so do you!**
+- ⚡ **I'm Working hard on avoiding making Slop, you should too!**
 
-- 👨‍💻 All of my projects are available at **[https://Arashkh.com](https://Arashkh.com)**
+- 👨‍💻 All (The good ones) of my projects are available at [**[https://Arashkh.com](https://Arashkh.com)**]
 
-- 📝 I regularly write articles on **[https://Arashkh.com](https://Arashkh.com)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1F_uNOQBwmGbRf1adJRw4dEbbP9ZKXsVC/view?usp=sharing](https://drive.google.com/file/d/1F_uNOQBwmGbRf1adJRw4dEbbP9ZKXsVC/view?usp=sharing)**
+- 📄 Know about my experiences [**[I'm a resume Link!](https://drive.google.com/file/d/1F_uNOQBwmGbRf1adJRw4dEbbP9ZKXsVC/view?usp=sharing)**]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,9 +32,6 @@
     <a href="https://stackoverflow.com/users/arash-kh" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="arash-kh" height="30" width="40" /></a>
-    <a href="https://codechef.com/users/cptboxhead" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg"
-            alt="cptboxhead" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
