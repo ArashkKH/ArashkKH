@@ -16,7 +16,7 @@
 
 - 👨‍💻 All (The good ones) of my projects are available at [**[https://Arashkh.com](https://Arashkh.com)**]
 
-- 📄 Know about my experiences [**[I'm a resume Link!](https://drive.google.com/file/d/1F_uNOQBwmGbRf1adJRw4dEbbP9ZKXsVC/view?usp=sharing)**]
+- 📄 Know about my experiences [**[I'm a resume Link!](https://docs.google.com/document/d/1BV7bjeLXpR6naaSX8ACbjtJwSUFY_l4Z/edit?usp=sharing&ouid=108222378543933288507&rtpof=true&sd=true)**]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
