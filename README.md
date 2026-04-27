@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [**[I'm a resume Link!](https://docs.google.com/document/d/1BV7bjeLXpR6naaSX8ACbjtJwSUFY_l4Z/edit?usp=sharing&ouid=108222378543933288507&rtpof=true&sd=true)**]
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
     <a href="https://github.com/ArashkKH" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
             alt="ArashkKH" height="30" width="40" /></a>
