@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [**[I'm a resume Link!](https://docs.google.com/document/d/1BV7bjeLXpR6naaSX8ACbjtJwSUFY_l4Z/edit?usp=sharing&ouid=108222378543933288507&rtpof=true&sd=true)**]
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
+<p align="left">
     <a href="https://github.com/ArashkKH" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
             alt="ArashkKH" height="30" width="40" /></a>
@@ -35,61 +35,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus"
-        target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40"
-            height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"
-        rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-            alt="materialize" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img
-            src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40" /> </a></p>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/babel"><img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/c"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/css3"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/express"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/figma"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/git"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/html5"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/illustrator"><img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/jest"><img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/linux"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/materialize"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/mongodb"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/mysql"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/nodejs"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/photoshop"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/postgresql"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/react"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/redis"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/sass"><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/tailwind"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/xd"><img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40" /></a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArashkKH&" alt="ArashkKH" style="width:100%;"/></p>
 
